@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=daiyak&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=daiyak&count_private=true)
+[![](https://raw.githubusercontent.com/daiyak/daiyak/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/daiyak/daiyak/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <!--
 **daiyak/daiyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
